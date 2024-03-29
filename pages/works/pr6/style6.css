@@ -1,0 +1,36 @@
+*{
+    
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 18px;
+}
+main{
+    background-color: rgb(250, 182, 218);
+}
+body{
+    background-color: rgb(238, 148, 196);
+}
+ul li {
+    display: inline-block;
+}
+ul {
+    background: rgba(156, 76, 180, 0.247);
+}
+
+li {
+    padding: 10px;
+}
+footer{
+    background-color: rgb(236, 176, 209);
+}

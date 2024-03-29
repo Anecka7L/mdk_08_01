@@ -1,0 +1,107 @@
+.prew {
+    width: 450px;
+    height: 300px;
+
+}
+
+.new111 {
+    background: url("../img/new1111.jpg");
+    background-size: cover;
+}
+
+.pfoto {
+    background: url("../img/83f13c77440087.5d12dbff4239f.jpg");
+    background-size: cover;
+}
+
+.new1 {
+    background: url("../img/new1.jpeg");
+    background-size: cover;
+}
+
+.new2 {
+    background: url("../img/new2.jpg");
+    background-size: cover;
+}
+
+.new3 {
+    background: url("../img/new3.jpg");
+    background-size: cover;
+}
+
+.piano {
+    display: flex;
+    background: url("../img/img_cax8_design_top_lighterKB_930x650.jpg");
+    background-size: cover;
+
+}
+p{
+    width: 30%;
+}
+.nails {
+    display: flex;
+    background: url("../img/1655424882_61-mykaleidoscope-ru-p-nogti-dizain-novinki-krasivo-61.jpg");
+    background-size: cover;
+
+}
+p{
+    width: 30%;
+}
+.krspiano {
+    background: url("../img/piano-achievement-d5d23bee-4888-48de-b39f-2f916c62bac2.jpg");
+    background-size: cover;
+}
+
+.krsnails {
+    background: url("../img/design-certificate-6.jpg");
+    background-size: cover;
+}
+
+body {
+    /* background-image: url("../img/111_144-p-foni-dlya-lendinga-168.jpg"); */
+    background-color: rgb(235, 255, 249);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+* {
+    font-size: 16px;
+
+}
+
+ul li {
+    display: inline-block;
+}
+
+ul {
+    background: rgba(76, 180, 149, 0.247);
+}
+
+li {
+    padding: 10px;
+}
+
+.content {
+    display: flex;
+}
+
+aside {
+    width: 30%;
+}
+/* .nv{
+    display: inline-block;
+}
+section{
+    width: 35%;
+} */
